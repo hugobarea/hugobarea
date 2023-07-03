@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/hugobarea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugobarea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=hugobarea_&layout=compact' alt='Languages over last 7 days ' align='center' />
+    <figure><embed src="https://wakatime.com/share/@hugobarea_/fa568dfb-e21a-430d-b000-726fade51961.svg"></embed></figure>
 </div>
 
 <br>
